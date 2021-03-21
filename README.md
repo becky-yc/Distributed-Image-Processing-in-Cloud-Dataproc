@@ -10,10 +10,12 @@ Use Spark on Cloud Dataproc to distribute a computationally intensive image proc
 ## Install Software
 1. Set up Scala and sbt
 
-```sudo apt-get install -y dirmngr unzip
+```
+sudo apt-get install -y dirmngr unzip
 ```
 
-```sudo apt-get update
+```
+sudo apt-get update
 ```
 
 ```sudo apt-get install -y apt-transport-https
